@@ -17,6 +17,8 @@ public class AddressBook {
         return buddies.remove(buddy);
     }
 
+    private void branchMehtod(){}
+
     public static void main(String[] args) {
 
         BuddyInfo buddy = new BuddyInfo("Tom", "Carleton",613);
